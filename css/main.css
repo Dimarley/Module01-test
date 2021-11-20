@@ -7,9 +7,8 @@ p{
 ul{
     color:tomato;
 }
-.hr{
-    color: rgb(169, 196, 21);
-    
+hr{
+    color: red;
 }
 a{
     color:seagreen;
