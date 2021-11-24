@@ -1,0 +1,6 @@
+div > p {
+  color: #ff0000;
+}
+ul + p {
+  color: yellow;
+}

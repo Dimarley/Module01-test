@@ -29,6 +29,9 @@ ul {
 ul > li {
   margin-right: 30px;
 }
+ul > li:last-child {
+  margin-right: 0;
+}
 a {
   color: rebeccapurple;
   font-weight: 700;
@@ -54,6 +57,12 @@ section {
   padding: 10px 20px;
   background-color: lavender;
   margin-bottom: 20px;
+}
+.link {
+  background-color: rebeccapurple;
+  color: white;
+  padding: 8px 15px;
+  margin-left: 10px;
 }
 .post {
   padding-bottom: 20px;
